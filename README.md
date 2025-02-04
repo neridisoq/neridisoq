@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neridisoq&layout=compact&theme=tokyonight)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neridisoq&layout=compact&theme=tokyonight)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neridisoq&repo=YangcheonLife-Swift)](https://github.com/neridisoq/YangcheonLife-Swift)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neridisoq&repo=YangcheonLife_Kotlin)](https://github.com/neridisoq/YangcheonLife-Swift)
