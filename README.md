@@ -4,7 +4,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neridisoq&repo=YangcheonLife-Swift)](https://github.com/neridisoq/YangcheonLife-Swift)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neridisoq&repo=YangcheonLife_Kotlin)](https://github.com/neridisoq/YangcheonLife-Swift)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neridisoq&repo=YangcheonLife_Kotlin)](https://github.com/neridisoq/yangcheonlife-teacher-swift)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neridisoq&repo=yangcheonlife-teacher-swift)](https://github.com/neridisoq/yangcheonlife-teacher-swift)
 <!--
 **neridisoq/neridisoq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
